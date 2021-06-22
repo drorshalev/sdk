@@ -1,0 +1,4 @@
+#Mon Jun 07 18:00:34 ICT 2021
+base.0=C\:\\Users\\Lenovo\\Downloads\\BlinkUpSDK-Android-master\\sdk\\sample_agent\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+renamed.0=classes.dex
+path.0=classes.dex

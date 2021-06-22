@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:2:1-18:12
+MERGED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:2:1-18:12
+		INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:2:1-18:12
+		INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:5:5-16:19
+MERGED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:16:5-25:19
+MERGED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:16:5-25:19
+	android:label
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:6:9-45
+	android:allowBackup
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.electricimp.blinkup.sample.strings.MainActivity
+ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:10:9-15:20
+	android:name
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:10:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+MERGED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:7:5-9:41
+MERGED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\Downloads\BlinkUpSDK-Android-master\sdk\sample_strings\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:14:22-73
+activity#com.electricimp.blinkup.WifiSelectActivity
+ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:17:19-76
+activity#com.electricimp.blinkup.BlinkupGLActivity
+ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:18:9-20:52
+	android:screenOrientation
+		ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:20:13-49
+	android:name
+		ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:19:13-69
+activity#com.electricimp.blinkup.WifiActivity
+ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:21:9-73
+	android:name
+		ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:21:19-70
+activity#com.electricimp.blinkup.WPSActivity
+ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:22:9-72
+	android:name
+		ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:22:19-69
+activity#com.electricimp.blinkup.ClearWifiActivity
+ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:23:9-78
+	android:name
+		ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:23:19-75
+activity#com.electricimp.blinkup.InterstitialActivity
+ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:24:9-81
+	android:name
+		ADDED from [blinkup-6.4.4.aar] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ef6ac15ec0acff45a75c46197d23b6de\AndroidManifest.xml:24:19-78

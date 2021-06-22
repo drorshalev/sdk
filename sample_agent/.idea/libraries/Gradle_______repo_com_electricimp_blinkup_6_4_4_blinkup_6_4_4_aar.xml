@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./../repo/com/electricimp/blinkup/6.4.4/blinkup-6.4.4.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef6ac15ec0acff45a75c46197d23b6de/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef6ac15ec0acff45a75c46197d23b6de/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef6ac15ec0acff45a75c46197d23b6de/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
